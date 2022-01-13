@@ -7,12 +7,12 @@ from pyrogram import __version__ as pyrover
 from Yumeko.events import register as MEMEK
 from Yumeko import telethn as tbot
 
-PHOTO = "https://telegra.ph/file/215dda7cc7cc720273495.jpg"
+PHOTO = https://telegra.ph/file/215dda7cc7cc720273495.jpg
 
 @MEMEK(pattern=("/alive"))
 async def awake(event):
   tai = event.sender.first_name
-  YUMEKO = "**Holla I'm Yumeko!** \n\n"
+  YUMEKO = "**Holla I'm destiny!** \n\n"
   YUMEKO += "×**I'm Working Properly** \n\n"
   YUMEKO += "×**My Owners : [ʀᴏʀᴏɴᴏᴀ|ᴢᴏʀᴏ]](https://t.me/Aceladi), [Asᴛᴀ](https://t.me/baby_hoi)** \n\n"
   YUMEKO += f"×**Telethon Version : {tlhver}** \n\n"
