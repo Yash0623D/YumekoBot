@@ -72,7 +72,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-YUMEKO_IMG = "https://telegra.ph/file/edcb05250579b10343d6c.jpg"
+YUMEKO_IMG = "https://telegra.ph/file/215dda7cc7cc720273495.jpg"
 
 PM_START_TEXT = """
 **Hey I am destiny** [ㅤ](https://telegra.ph/file/215dda7cc7cc720273495.jpg)
@@ -101,7 +101,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-**Main commands:**  [ㅤ](https://telegra.ph/file/efdee100cc31b4b3e0be2.mp4)
+**Main commands:**  [ㅤ](https://telegra.ph/file/215dda7cc7cc720273495.jpg)
 ❂ /start: Starts me! You've probably already used this.
 ❂ /help: Sends this message; I'll tell you more about myself.
 
